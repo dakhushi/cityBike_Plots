@@ -1,6 +1,7 @@
 # Deploy the Citi Bike Project
 
 In this activity, you'll deploy your Citi Bike project files to GitHub Pages.
+https://dakhushi.github.io/cityBike_Plots/
 
 ## Instructions
 
